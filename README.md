@@ -15,7 +15,7 @@
 
 
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/VISIBILITY-PRIVATE-8b0000?style=flat-square)
+![](https://img.shields.io/badge/VISIBILITY-PUBLIC-8b0000?style=flat-square)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/ACCESS-REQUEST%20ONLY-333333?style=flat-square)
 
@@ -28,7 +28,7 @@
 <div align="center">
 <br/>
 
-> **This repository is private and not publicly accessible.**
+> **This repository is RELEASE and publicly accessible.**
 >
 > Submit your request via the button above.  
 > Authorized users will be onboarded via email upon approval.
