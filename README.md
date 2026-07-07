@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![nrhsnsn](https://img.shields.io/badge/%20ᅠ-EMAIL%20TO%20REQUEST-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virus-pulse-buggy@duck.com)
+[![nrhsnsn](https://img.shields.io/badge/%20ᅠ-EMAIL%20TO%20REQUEST-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:267415559+nrhsnsn@users.noreply.github.com)
 
 <br/><br/>
 
